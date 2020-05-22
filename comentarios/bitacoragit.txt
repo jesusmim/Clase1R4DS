@@ -1,0 +1,13 @@
+1er paso:instalar git a partir de
+git-scm.com
+Luego, abrir Git Bash
+Tener en cuenta el hecho de tener un repositorio local y en algun momento optar por subir nuestro codigo a github.com
+Luego creo un nuevo repositorio: No marcar la opcion readme y dejar el repositorio publico
+Abierto Git Bash , navegamos hasta nuestro directorio de trabajo(creado en r studio)
+ejecuto pwd: consulto cual es el directorio actual
+cd Desktop/Clase1_R4DS
+listamos el contenido de nuestro directorio de trabajo
+Agrego los archivos del directorio de trabajo a mi repositorio(vacio)
+git add
+Luego ya puedo configurar mi repositorio remoto:https://github.com/jesusmim/Clase1R4DS.git
+it remote add origin 

@@ -1,0 +1,8 @@
+Habiendo avanzado la clase hasta casi las 9:30 listemos lo visto hasta este momento:
+Los comentarios en R empiezan con el caracter #
+Las funciones que hemos visto son:
+**setwd
+**getwd(dir)
+**help()
+Todo problema debe ser formulado matricialmente, de ahi la importancia de saber trabajar con vectores y matrices en R
+Tan o mas importante como saber utilizar una formular es saber cuando no utilizarla.
